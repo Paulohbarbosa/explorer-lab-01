@@ -90,7 +90,7 @@ const cardNumberPattern = {
 }
 const cardNumberMasked = IMask(cardNumber, cardNumberPattern)
 
-//-------- INTERAGINDO COM A INTERFACE ----------
+//-------- INTERAGINDO COM A INTERFACE DO CARTÃO ----------
 //desativar o recarrgar a pag
 document.querySelector("form").addEventListener("submit", (event) => {
   event.preventDefault()
