@@ -24,6 +24,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/cartões.png" width="100%">
 </p>
 
+<p>
+<a href="https://explorer-lab-01-inky-xi.vercel.app/">Endereço da página publicada do projeto</a>
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
